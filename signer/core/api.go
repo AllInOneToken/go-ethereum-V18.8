@@ -1,5 +1,5 @@
-// Copyright 2018 The go-ethereum Authors
-// This file is part of the go-ethereum library.
+// Copyright 2023 The AIO Authors
+// This file is part of the go-ethereum library for ALL in One.
 //
 // The go-ethereum library is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Lesser General Public License as published by
@@ -666,3 +666,7 @@ func (api *SignerAPI) SignGnosisSafeTx(ctx context.Context, signerAddress common
 func (api *SignerAPI) Version(ctx context.Context) (string, error) {
 	return ExternalAPIVersion, nil
 }
+//New version is coming soon for ALL in One PV Blockchain 
+//New version is coming soon for ALL in One PV Blockchain
+//New version is coming soon for ALL in One PV Blockchain
+//New version is coming soon for ALL in One PV Blockchain
